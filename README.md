@@ -6,7 +6,7 @@ This repository is **Compose Multiplatform** (compose-jb) example and is made fo
 
 Release is an application on *Windows Platform* about **Online Shopping System**.
 
-For backend repository, visit [oss_spring]([thxbrop/oss_spring](https://github.com/thxbrop/oss_spring)) .
+For backend repository, visit [oss_spring](https://github.com/thxbrop/oss_spring) .
 
 ## Project technology stack
 
